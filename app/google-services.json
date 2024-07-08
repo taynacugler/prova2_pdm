@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "945549403056",
+    "project_id": "prova2cugler",
+    "storage_bucket": "prova2cugler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945549403056:android:ae6d43916a869d6f192c75",
+        "android_client_info": {
+          "package_name": "com.example.prova2cugler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbiWGJH6a5fhes6kv_QntwDTAuOoZAmF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
